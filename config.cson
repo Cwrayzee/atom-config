@@ -1,0 +1,7 @@
+"*":
+  core: {}
+  editor:
+    fontFamily: "OpenDyslexic Nerd Font"
+    fontSize: 15
+  "exception-reporting":
+    userId: "2f61163d-a835-4658-9f83-5a73fe63d601"
