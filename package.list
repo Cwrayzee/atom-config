@@ -6,6 +6,7 @@ atom-material-syntax@1.0.8
 atom-python-run@0.9.7
 atom-selenium-autocomplete@0.0.4
 autocomplete-python@1.16.0
+capybara-snippets@0.2.0
 color-picker@2.3.0
 emmet@2.4.3
 expose@0.15.0
