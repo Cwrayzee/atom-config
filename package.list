@@ -4,6 +4,7 @@ atom-file-icons@0.7.1
 atom-ide-ui@0.13.0
 atom-material-syntax@1.0.8
 atom-python-run@0.9.7
+atom-selenium-autocomplete@0.0.4
 autocomplete-python@1.16.0
 color-picker@2.3.0
 emmet@2.4.3
